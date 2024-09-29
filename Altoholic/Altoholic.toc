@@ -34,6 +34,9 @@ Services\Services.xml
 Templates\UITemplates.xml
 Altoholic.xml
 
+# Workaround because of Blizzard
+Frames\SliderTemplates.xml
+
 Frames\MessageBox.xml
 Frames\TabOptions.xml
 Frames\MinimapButton.xml
